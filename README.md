@@ -224,7 +224,7 @@ cd C:\Users\sahar\OneDrive\Documents\AI\resume_analyzer
 If hosted on GitHub, clone it:
 
 ```shellscript
-git clone https://github.com/your-repo/ai-resume-analyzer.git
+git clone https://github.com/Slygriyrsk/ai-resume-analyzer.git
 cd ai-resume-analyzer
 ```
 
