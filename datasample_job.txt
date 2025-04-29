@@ -1,0 +1,1 @@
+A Software Engineer role requiring deep expertise in Python, AWS, and Docker, along with a strong track record of designing and building scalable, resilient systems for cloud-native applications.

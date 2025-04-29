@@ -1,0 +1,167 @@
+2025-04-28 12:34:14,692 - Loaded custom CSS
+2025-04-28 12:34:23,732 - Loaded custom CSS
+2025-04-28 12:34:25,773 - Loaded custom CSS
+2025-04-28 12:38:45,448 - Loaded custom CSS
+2025-04-28 12:38:48,145 - Loaded custom CSS
+2025-04-28 12:38:53,940 - Loaded custom CSS
+2025-04-28 12:39:03,881 - Loaded custom CSS
+2025-04-28 12:39:11,716 - Loaded custom CSS
+2025-04-28 12:39:11,815 - Loaded custom CSS
+2025-04-28 12:40:04,678 - Loaded custom CSS
+2025-04-28 12:40:15,234 - Loaded custom CSS
+2025-04-28 12:40:15,339 - Loaded custom CSS
+2025-04-28 12:40:22,589 - Loaded custom CSS
+2025-04-28 12:40:22,667 - Loaded custom CSS
+2025-04-28 12:40:25,530 - Loaded custom CSS
+2025-04-28 12:40:25,567 - Sending request to FastAPI backend
+2025-04-28 12:40:28,506 - Response status: 500
+2025-04-28 12:40:28,509 - Analysis exception: Expecting value: line 1 column 1 (char 0)
+2025-04-28 12:44:42,144 - Loaded custom CSS
+2025-04-28 12:44:53,375 - Loaded custom CSS
+2025-04-28 12:44:57,461 - Loaded custom CSS
+2025-04-28 12:44:59,636 - Loaded custom CSS
+2025-04-28 12:45:32,599 - Loaded custom CSS
+2025-04-28 12:45:32,730 - Loaded custom CSS
+2025-04-28 12:45:41,955 - Loaded custom CSS
+2025-04-28 12:45:41,970 - Missing resume or job description
+2025-04-28 12:45:49,551 - Loaded custom CSS
+2025-04-28 12:45:51,601 - Loaded custom CSS
+2025-04-28 12:45:51,623 - Missing resume or job description
+2025-04-28 12:46:09,709 - Loaded custom CSS
+2025-04-28 12:46:09,934 - Loaded custom CSS
+2025-04-28 12:46:09,966 - Sending request to FastAPI backend
+2025-04-28 12:46:12,680 - Response status: 500
+2025-04-28 12:46:12,685 - Analysis exception: Expecting value: line 1 column 1 (char 0)
+2025-04-28 12:46:23,746 - Loaded custom CSS
+2025-04-28 12:46:23,785 - Analysis exception: Expecting value: line 1 column 1 (char 0)
+2025-04-28 15:12:20,330 - Loaded custom CSS
+2025-04-28 15:34:04,689 - Loaded custom CSS
+2025-04-28 15:34:10,512 - Loaded custom CSS
+2025-04-28 15:34:43,078 - Loaded custom CSS
+2025-04-28 15:34:43,186 - Loaded custom CSS
+2025-04-28 15:34:43,214 - Sending request to FastAPI backend
+2025-04-28 15:34:45,975 - Response status: 500
+2025-04-28 15:34:45,980 - Analysis exception: Expecting value: line 1 column 1 (char 0)
+2025-04-28 15:35:17,682 - Loaded custom CSS
+2025-04-28 15:35:17,711 - Analysis exception: Expecting value: line 1 column 1 (char 0)
+2025-04-28 15:36:46,188 - Loaded custom CSS
+2025-04-28 15:36:46,208 - Analysis exception: Expecting value: line 1 column 1 (char 0)
+2025-04-28 15:36:51,622 - Loaded custom CSS
+2025-04-28 15:36:53,395 - Loaded custom CSS
+2025-04-28 15:36:54,179 - Loaded custom CSS
+2025-04-28 15:36:58,356 - Loaded custom CSS
+2025-04-28 15:37:15,374 - Loaded custom CSS
+2025-04-28 15:37:15,578 - Loaded custom CSS
+2025-04-28 15:37:15,598 - Sending request to FastAPI backend
+2025-04-28 15:37:17,980 - Response status: 500
+2025-04-28 15:37:17,982 - Analysis exception: Expecting value: line 1 column 1 (char 0)
+2025-04-28 15:46:24,489 - Loaded custom CSS
+2025-04-28 15:49:44,900 - Loaded custom CSS
+2025-04-28 15:49:44,919 - Missing resume or job description
+2025-04-28 15:49:49,751 - Loaded custom CSS
+2025-04-28 15:49:49,867 - Loaded custom CSS
+2025-04-28 15:49:54,944 - Loaded custom CSS
+2025-04-28 15:49:54,976 - Analysis exception: Expecting value: line 1 column 1 (char 0)
+2025-04-28 15:50:01,245 - Loaded custom CSS
+2025-04-28 15:50:02,922 - Loaded custom CSS
+2025-04-28 15:50:07,080 - Loaded custom CSS
+2025-04-28 15:50:14,892 - Loaded custom CSS
+2025-04-28 15:50:41,725 - Loaded custom CSS
+2025-04-28 15:50:41,944 - Loaded custom CSS
+2025-04-28 15:50:41,963 - Sending request to FastAPI backend
+2025-04-28 15:50:46,439 - Response status: 500
+2025-04-28 15:50:46,442 - Analysis exception: Expecting value: line 1 column 1 (char 0)
+2025-04-28 15:53:10,087 - Loaded custom CSS
+2025-04-28 15:53:10,197 - Loaded custom CSS
+2025-04-28 15:53:10,229 - Sending request to FastAPI backend
+2025-04-28 15:53:12,685 - Response status: 500
+2025-04-28 15:53:12,687 - Analysis exception: Expecting value: line 1 column 1 (char 0)
+2025-04-28 15:59:07,723 - Loaded custom CSS
+2025-04-28 15:59:14,047 - Loaded custom CSS
+2025-04-28 15:59:17,943 - Loaded custom CSS
+2025-04-28 15:59:32,192 - Loaded custom CSS
+2025-04-28 15:59:33,017 - Loaded custom CSS
+2025-04-28 15:59:33,034 - Analysis exception: Expecting value: line 1 column 1 (char 0)
+2025-04-28 15:59:46,318 - Loaded custom CSS
+2025-04-28 15:59:46,342 - Analysis exception: Expecting value: line 1 column 1 (char 0)
+2025-04-28 15:59:49,994 - Loaded custom CSS
+2025-04-28 15:59:51,936 - Loaded custom CSS
+2025-04-28 15:59:55,470 - Loaded custom CSS
+2025-04-28 15:59:58,899 - Loaded custom CSS
+2025-04-28 15:59:59,114 - Loaded custom CSS
+2025-04-28 15:59:59,133 - Analysis exception: Expecting value: line 1 column 1 (char 0)
+2025-04-28 16:06:48,432 - ERROR - Error analyzing resume: 500 Server Error: Internal Server Error for url: http://localhost:8000/analyze
+2025-04-28 16:08:07,985 - INFO - Feedback saved successfully
+2025-04-28 16:40:32,155 - INFO - Feedback saved successfully2025-04-28 16:44:38,366 - ERROR - Error analyzing resume: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /analyze (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000019A750CE9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-04-28 16:47:27,640 - ERROR - Error analyzing resume: 500 Server Error: Internal Server Error for url: http://localhost:8000/analyze
+2025-04-28 16:59:08,804 - ERROR - Error analyzing resume: 500 Server Error: Internal Server Error for url: http://localhost:8000/analyze
+2025-04-29 16:06:03,018 - ERROR - Error analyzing resume: 500 Server Error: Internal Server Error for url: http://localhost:8000/analyze
+2025-04-29 17:34:19,520 - INFO - Resume analysis completed successfully
+2025-04-29 17:41:56,425 - INFO - Resume analysis completed successfully
+2025-04-29 17:42:41,515 - INFO - Feedback saved successfully
+2025-04-29 17:51:48,641 - INFO - Resume analysis completed successfully
+2025-04-29 17:52:45,909 - INFO - Resume analysis completed successfully
+2025-04-29 17:54:30,741 - INFO - Resume analysis completed successfully
+2025-04-29 17:58:37,415 - INFO - Resume analysis completed successfully
+2025-04-29 18:03:26,786 - INFO - Custom CSS loaded successfully
+2025-04-29 18:03:54,278 - INFO - Custom CSS loaded successfully
+2025-04-29 18:04:13,514 - INFO - Custom CSS loaded successfully
+2025-04-29 18:04:13,626 - INFO - Custom CSS loaded successfully
+2025-04-29 18:04:48,438 - INFO - Resume analysis completed successfully
+2025-04-29 18:08:09,478 - INFO - Custom CSS loaded successfully
+2025-04-29 18:12:35,932 - INFO - Custom CSS loaded successfully
+2025-04-29 18:12:45,753 - INFO - Custom CSS loaded successfully
+2025-04-29 18:12:57,980 - INFO - Custom CSS loaded successfully
+2025-04-29 18:12:58,725 - INFO - Custom CSS loaded successfully
+2025-04-29 18:13:27,099 - INFO - Resume analysis completed successfully
+2025-04-29 18:20:13,302 - INFO - Custom CSS loaded successfully
+2025-04-29 18:20:54,285 - INFO - Custom CSS loaded successfully
+2025-04-29 18:21:02,881 - INFO - Custom CSS loaded successfully
+2025-04-29 18:21:10,122 - INFO - Custom CSS loaded successfully
+2025-04-29 18:21:12,765 - INFO - Custom CSS loaded successfully
+2025-04-29 18:22:53,172 - INFO - Custom CSS loaded successfully
+2025-04-29 18:23:07,030 - INFO - Custom CSS loaded successfully
+2025-04-29 18:23:09,066 - INFO - Custom CSS loaded successfully
+2025-04-29 18:24:37,700 - WARNING - Custom CSS file not found, using fallback CSS
+2025-04-29 18:24:39,080 - WARNING - Custom CSS file not found, using fallback CSS
+2025-04-29 18:24:47,008 - INFO - Custom CSS loaded successfully
+2025-04-29 18:25:30,367 - INFO - Custom CSS loaded successfully
+2025-04-29 18:25:39,172 - INFO - Custom CSS loaded successfully
+2025-04-29 18:25:44,226 - INFO - Custom CSS loaded successfully
+2025-04-29 18:26:19,708 - INFO - Resume analysis completed successfully
+2025-04-29 18:27:40,946 - INFO - Custom CSS loaded successfully
+2025-04-29 18:28:44,677 - INFO - Custom CSS loaded successfully
+2025-04-29 18:29:33,347 - INFO - Custom CSS loaded successfully
+2025-04-29 18:29:34,902 - INFO - Custom CSS loaded successfully
+2025-04-29 18:30:28,683 - INFO - Custom CSS loaded successfully
+2025-04-29 18:30:36,578 - INFO - Custom CSS loaded successfully
+2025-04-29 18:30:36,912 - INFO - Custom CSS loaded successfully
+2025-04-29 18:30:36,955 - INFO - Resume analysis completed successfully
+2025-04-29 18:33:46,754 - INFO - Custom CSS loaded successfully
+2025-04-29 18:34:41,512 - INFO - Custom CSS loaded successfully
+2025-04-29 18:34:43,513 - INFO - Custom CSS loaded successfully
+2025-04-29 18:35:09,042 - INFO - Custom CSS loaded successfully
+2025-04-29 18:35:20,176 - INFO - Custom CSS loaded successfully
+2025-04-29 18:37:10,783 - INFO - Custom CSS loaded successfully
+2025-04-29 18:37:11,821 - INFO - Custom CSS loaded successfully
+2025-04-29 18:37:18,141 - INFO - Custom CSS loaded successfully
+2025-04-29 18:37:26,655 - INFO - Custom CSS loaded successfully
+2025-04-29 18:37:26,877 - INFO - Custom CSS loaded successfully
+2025-04-29 18:37:53,840 - INFO - Resume analysis completed successfully
+2025-04-29 18:40:55,707 - INFO - Custom CSS loaded successfully
+2025-04-29 18:41:07,832 - INFO - Custom CSS loaded successfully
+2025-04-29 18:41:18,186 - INFO - Custom CSS loaded successfully
+2025-04-29 18:50:34,302 - INFO - Custom CSS loaded successfully
+2025-04-29 18:51:33,745 - INFO - Resume analysis completed successfully
+2025-04-29 18:53:50,016 - INFO - Custom CSS loaded successfully
+2025-04-29 18:53:50,094 - INFO - Feedback saved successfully
+2025-04-29 18:54:50,289 - INFO - Custom CSS loaded successfully
+2025-04-29 18:54:58,302 - INFO - Custom CSS loaded successfully
+2025-04-29 18:55:51,023 - INFO - Custom CSS loaded successfully
+2025-04-29 18:55:51,223 - INFO - Custom CSS loaded successfully
+2025-04-29 18:56:46,262 - INFO - Resume analysis completed successfully
+2025-04-29 18:57:23,118 - INFO - Custom CSS loaded successfully
+2025-04-29 18:59:44,484 - INFO - Custom CSS loaded successfully
+2025-04-29 18:59:53,478 - INFO - Custom CSS loaded successfully
+2025-04-29 18:59:57,763 - INFO - Custom CSS loaded successfully
+2025-04-29 19:00:01,003 - INFO - Custom CSS loaded successfully
