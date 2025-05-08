@@ -216,13 +216,6 @@ Follow these steps to set up the project on Windows.
 
 ### 1. Clone the Repository
 
-Since the project is local, navigate to the directory:
-
-```bash
-cd C:\Users\sahar\OneDrive\Documents\AI\resume_analyzer
-```
-If hosted on GitHub, clone it:
-
 ```shellscript
 git clone https://github.com/Slygriyrsk/ai-resume-analyzer.git
 cd ai-resume-analyzer
